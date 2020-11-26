@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hamwig2_DriveToMSU</string>
+    <string name="drive">Drive to MSU</string>
+    <string name="msu">Montclair State University</string>
+    <string name="description"> This app is to navigate you to MSU. When the DRIVE TO MSU button is clicked you will be brought to Google Maps in order to
+    navigate to the campus from wherever you currently are. </string>
+</resources>
